@@ -1,6 +1,3 @@
 # myapplication-demo-
-This is my first repository
-i am super man 
-and i also a great coder
-
+This is my first repository, and i am a great coder
 
